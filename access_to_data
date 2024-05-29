@@ -1,1 +1,9 @@
-Please send email to kahean@build.aau.dk if you want access to the data. They will be given based on request. 
+Please send an email to kahean@build.aau.dk if you want access to the data. They will be given based on request. 
+
+Available data:
+- IEQ data (CO2, room temperature and RH in 16 rooms)
+- Electricity use 
+- Heating use
+- Heating setpoint per room
+- Water use (hot and cold)
+- Predicted occupancy labels
